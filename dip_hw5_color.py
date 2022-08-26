@@ -1,7 +1,3 @@
-"""dip_hw5_color.py: Starter file to run howework 5"""
-
-#Example Usage: ./dip_hw5_color -i image -n n_slices _c colors
-#Example Usage: python dip_hw5_color.py -i image -n n_slices _c colors
 
 
 
